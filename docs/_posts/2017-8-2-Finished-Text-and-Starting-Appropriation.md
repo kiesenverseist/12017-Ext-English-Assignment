@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Finished Text and Starting Appropriation"
-date:   2017-07-29 19:14:46 +1000
-categories: jekyll update
+date:   2017-08-02 13:00:00 +1000
+categories: ["all"]
 ---
 I finished reading my text and I'm glad I chose what I did, the author has some very strong views which are expressed very clearly. The concept of time travel is also nowadays very common making its popular culture impact easy to find.
 
