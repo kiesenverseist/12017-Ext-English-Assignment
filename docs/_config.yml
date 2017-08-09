@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: The Time Machine
 email: creativeibi77@gmail.com
-description: > # A webste for my english assignment
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+description: A webste for my english assignment
+baseurl: "/A-Time-Machine" # the subpath of your site, e.g. /blog
+url: "https://kiesenverseist.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: N/A
 github_username:  kiesenverseist
 
 # Build settings
