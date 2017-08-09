@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Finished Text and Starting Appropriation"
-date:   2017-08-02 12:40:00 +1000
+date:   2017-08-02 13:00:00 +1000
 categories: ["all"]
 ---
-I was having many issues with how my site is set up, but just now, I managed to fix them!  
-Ill start to work on my analysis as well as continue working on the game. On that note, I have an idea as to the logic of the game, but I'm not completely sure as to what kind of game should be made. I'm not particularly wanting to make  platformer, it also has to be something that can be shown in a short time... I'll work it out somehow.
+
+I finished reading my text and I'm glad I chose what I did, the author has some very strong views which are expressed very clearly. The concept of time travel is also nowadays very common making its popular culture impact easy to find.
+
+I have also started on the game. It being a game means it would take more time but I'm still hopeful for the best, It can turn out very well or _very_ bad.

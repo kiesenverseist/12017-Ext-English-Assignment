@@ -1,12 +1,8 @@
 ---
 layout: post
 title:  "Fixed Many Issues"
-date:   2017-07-29 19:14:46 +1000
+date:   2017-08-09 12:40:00 +1000
 categories: ["all"]
 ---
-This is the fist post on my site! Progress!
-SO that means I go it to work. It was pretty hard to get Jekyll to work, but now that I finally managed to do so, it will hopefully be much easier to get work done.
-
-I am, for my text, choosing _The Time Machine_ which was written in 1895 by H.G. Wells.
-
-My general plan is to make a game as my appropriation with time travel as a main mechanic.
+I was having many issues with how my site is set up, but just now, I managed to fix them!  
+Ill start to work on my analysis as well as continue working on the game. On that note, I have an idea as to the logic of the game, but I'm not completely sure as to what kind of game should be made. I'm not particularly wanting to make  platformer, it also has to be something that can be shown in a short time... I'll work it out somehow.
