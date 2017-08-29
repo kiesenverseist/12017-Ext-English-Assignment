@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Last day rush"
-date:   2017-08-09 12:40:00 +1000
+date:   2017-08-29 12:40:00 +1000
 categories: ["all"]
 ---
 Even though I tried.
