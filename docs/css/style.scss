@@ -11,14 +11,20 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
-
+/*
 $text-color:       #111;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color:       #828282;*/
+
+$text-color:       #ababab;
+$background-color: #121212;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #939393;
+$grey-color-dark: lighten($grey-color, 15%);
+$grey-color-light:  darken($grey-color, 20%);
 
 // Width of the content area
 $content-width:    800px;
@@ -152,21 +158,21 @@ a {
     }
 
     &:hover {
-        color: black !important;
-        border-bottom: 1px dotted black ;
+        color: white !important;
+        border-bottom: 1px dotted white ;
     }
 
     &.page-link{
       &:hover {
           color: $text-color;
-          border-bottom: 1px dotted black ;
+          border-bottom: 1px dotted white ;
       }
     }
     &.postLink{
-      color: black !important;
+      color: $grey-color-dark !important;
       &:hover {
 
-          border-bottom: 1px dotted black ;
+          border-bottom: 1px dotted white ;
       }
 
       &:visited {
@@ -174,10 +180,10 @@ a {
       }
     }
     &.post-title-link{
-      color: black !important;
+      color: $grey-color-dark !important;
       &:hover {
 
-          border-bottom: 1px dotted black !important ;
+          border-bottom: 1px dotted white !important ;
       }
 
       &:visited {

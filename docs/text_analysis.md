@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Test Analysis
+title: Text Analysis
 permalink: /text_analysis/
 ---
 
-some Analysis on the text itself
+# Text Analysis
