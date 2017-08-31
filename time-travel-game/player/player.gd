@@ -15,4 +15,3 @@ func _process(delta):
 		move += Vector2(0,-speed)
 
 	
-	set_pos(get_pos()+move*delta)

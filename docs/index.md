@@ -2,9 +2,6 @@
 layout: page
 ---
 # Home
-
-![image](assets/website.jpg)
-
 Texts affect us in very real ways, their impact lasting long after their creation, and in some cases projecting their influence more than a few years.
 
 They leave impacts on our perception of modern society, our popular culture and even in areas outside of the texts intended audiences.
